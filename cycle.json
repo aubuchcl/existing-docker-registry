@@ -8,7 +8,7 @@
         "origin": {
           "type": "docker-registry",
           "details": {
-            "existing": "source_id": {"64bec9de2ae343e0e653de09"}
+            "existing": {"source_id": "64bec9de2ae343e0e653de09"}
           }
         }
       },
