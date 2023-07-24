@@ -6,10 +6,9 @@
       "image": {
         "name": "simplews",
         "origin": {
-          "type": "docker-file",
+          "type": "docker-registry",
           "details": {
-            "context_dir": "/",
-            "build_file": "/Dockerfile"
+            "existing": "64bec9de2ae343e0e653de09"
           }
         }
       },
